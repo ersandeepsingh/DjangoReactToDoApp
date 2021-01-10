@@ -6,7 +6,7 @@ Simple ToDo app using Django, Django Rest Framework and React
 * Pipenv
 
 ## Getting started
-1. Clone the project to your machine. [git clone https://github.com/...]
+1. Clone the project to your machine. [git clone https://github.com/ersandeepsingh/DjangoReactToDoApp]
 2. Navigate into the diretory.  [cd frontend]
 3. Source the virtual environment.  [pipenv env ][env\scripts\activate]
 4. Install the dependencies. [pip install -r requirements.txt]
@@ -18,7 +18,7 @@ Simple ToDo app using Django, Django Rest Framework and React
 You will need to start only Django server for this application.For React App, You have to only install dependecies and build it.
 
 1. Navigate to frontend directory and Install the dependencies [npm install] and then Build react app using [npm run build]
-2. Run this command to start the backend server in the [backend] directory: [python manage.py runserver] (You have to run this command while you are sourced into the virtual environment)
+2. Run this command to start the backend server in the [DjangoReactToDoApp] directory: [python manage.py runserver] (You have to run this command while you are sourced into the virtual environment)
 
 
 ## Built With
